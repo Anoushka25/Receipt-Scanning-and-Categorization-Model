@@ -24,3 +24,4 @@ You can install the required dependencies by running:
 
 ```bash
 pip install pytesseract opencv-python Pillow transformers torch
+
